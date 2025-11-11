@@ -1,0 +1,16 @@
+10469 - To Carry or not to Carry
+10919 - Prerequisites?
+562 - Dividing coins
+541 - Error Correction
+10954 - Add All
+10405 - Longest Common Subsequence
+119 - Greedy Gift Givers[map]
+12478 - Hardest Problem Ever (Easy)
+492 - Pig-Latin
+
+to do list
+
+wromg ans
+10252 - Common Permutation
+482 - Permutation Arrays
+12290 - Counting Game
